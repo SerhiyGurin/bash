@@ -4,7 +4,7 @@ echo "1 - update servers in cluster and vps"
 echo "2 - update nodes in cluster"
 echo "3 - update virtual servers"
 echo "4 - reboot nodes in cluster"
-echo "5 - shutdown nodes in clusters"
+echo "5 - shutdown nodes in cluster"
 echo "6 - shutdown vps"
 echo "7 - exit"
 read doing
